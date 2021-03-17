@@ -1,0 +1,90 @@
+body {
+  background-image: url(wallpaper.jpg);
+  background-size: cover;
+}
+
+.fadeblackwallpaper {
+  background-color: rgba(0,0,0,0.5);
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  border-radius: 15px;
+  height: 850px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logolim {
+  height: 120px;
+  width: 250px;
+  margin-top: 100px;
+}
+
+.headertext {
+ color: #39ff14;
+ font-family: 'Blinker', sans-serif;
+ font-family: 'Ubuntu', sans-serif;
+ font-size: 28px;
+ text-align: center;
+ margin-bottom: 8px;
+}
+
+main {
+  margin-top: 20px;
+  margin-left: 75px;
+
+}
+
+.navigation {
+  background-color: #39ff14;
+  height: 20px;
+  text-align: center;
+  padding: 15px;
+  margin-left: 75px;
+  margin-right: 75px;
+  border-radius: 20px;
+}
+
+.TipologieScooters {
+  font-size: 22px;
+  font-family: 'Blinker', sans-serif;
+  color: white;
+  margin-bottom: 47px;
+}
+
+div.address {
+  display: block;
+  margin-left: 5px;
+  font-size: 14px;
+  color: #b6b6b6;
+}
+
+.charge {
+ display: block;
+}
+.hr1 {
+  height: 30px;
+  background-color: orange;
+  border: none;
+  margin-right: 600px;
+  border-radius: 20px;
+}
+
+.hr2 {
+  height: 30px;
+  background-color: #39ff14;
+  border: none;
+  margin-right: 300px;
+  border-radius: 20px;
+}
+
+.hr3 {
+  height: 30px;
+  background-color: red;
+  border: none;
+  margin-right: 900px;
+  border-radius: 20px;
+}
